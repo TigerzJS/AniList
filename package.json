@@ -1,0 +1,28 @@
+{
+  "name": "anilist",
+  "version": "1.0.0",
+  "description": "AniList Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "anilist-node": "^1.9.0",
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joе#0187",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigerzJS/AniList.git"
+  },
+  "keywords": [
+    "anilist"
+  ],
+  "bugs": {
+    "url": "https://github.com/TigerzJS/AniList/issues"
+  },
+  "homepage": "https://github.com/TigerzJS/AniList#readme"
+}
