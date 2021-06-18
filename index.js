@@ -1,7 +1,6 @@
 const Discord = require("discord.js");       
 const client = new Discord.Client();        
-const config = require("./config.json");   
-const Enmap = require("enmap")              
+const config = require("./config.json");                
 const db = require("quick.db")                     
 
 const prefix = require("./prefix")
