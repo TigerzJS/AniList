@@ -1,6 +1,6 @@
 # AniList Discord Bot
 
-This is a Discord Bot with which you can search up AniList[users, animes, recent activities]
+This is a Discord Bot with which you can search up AniList ``users, animes, recent activities`` and with which you can give yourself ``anime recommendations``.
 
 ## Installation
 
@@ -8,6 +8,10 @@ Use the package manager [npm](https://www.npmjs.com/get-npm) to install the bot.
 
 ```bash
 npm i
+```
+To run the bot:
+```bash
+node index.js
 ```
 
 ## Commands
