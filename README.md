@@ -12,11 +12,29 @@ npm i
 
 ## Commands
 
+#### !prefix [ prefix ]
 ``
-!prefix changes the bots prefix for your server
+!prefix changes the bots prefix for your server 
+`` 
+#### !ani [ anime ]
 ``
+!ani searches for an anime
 ``
-!prefix changes the bots prefix for your server
+#### !aniu [ AniList User ]
+``
+!aniu searches for a user
+``
+#### !act [ AniList User ]
+``
+!act shows the recent activity from a user
+``
+#### !recu [ AniList User ]
+``
+!recu recommends a user animes
+``
+#### !rec [ anime ]
+``
+!rec shows recommendations for an anime
 ``
 
 
