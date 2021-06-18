@@ -15,6 +15,9 @@ npm i
 ``
 !prefix changes the bots prefix for your server
 ``
+``
+!prefix changes the bots prefix for your server
+``
 
 
 
